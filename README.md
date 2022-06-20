@@ -29,7 +29,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was fun building this app with help of Rahul Pandey
+His lectures are amazing would recommend people to watch them
 
 ## License
 
