@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [x] Custom colors selected
+* [x] Custom colors selected green
 
 
 ## Video Walkthrough
